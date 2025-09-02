@@ -1,0 +1,42 @@
+[
+  {
+    "query": "What's the weather in ny now?",
+    "document": "Currently New York is rainy."
+  },
+  {
+    "query": "How to install Python packages?",
+    "document": "You can install Python packages using pip, the package installer for Python. Simply run 'pip install package_name' in your terminal."
+  },
+  {
+    "query": "Best restaurants in San Francisco",
+    "document": "San Francisco offers amazing dining options including Michelin-starred establishments like Atelier Crenn and casual favorites like Tartine Bakery."
+  },
+  {
+    "query": "Machine learning algorithms for beginners",
+    "document": "Linear regression, decision trees, and k-means clustering are excellent starting points for learning machine learning algorithms."
+  },
+  {
+    "query": "How to setup Docker containers?",
+    "document": "Docker containers can be created using Dockerfiles. Start with a base image, add your application code, and define the runtime environment."
+  },
+  {
+    "query": "React component lifecycle methods",
+    "document": "React components have lifecycle methods like componentDidMount, componentDidUpdate, and componentWillUnmount for different phases of component lifecycle."
+  },
+  {
+    "query": "Database optimization techniques",
+    "document": "Database performance can be improved through indexing, query optimization, normalization, and proper database design patterns."
+  },
+  {
+    "query": "Climate change effects on agriculture",
+    "document": "Climate change impacts agriculture through changing precipitation patterns, temperature increases, and more frequent extreme weather events."
+  },
+  {
+    "query": "JavaScript async await patterns",
+    "document": "Async/await in JavaScript provides a cleaner syntax for handling asynchronous operations compared to traditional callback or promise chains."
+  },
+  {
+    "query": "Natural language processing applications",
+    "document": "NLP applications include sentiment analysis, machine translation, chatbots, text summarization, and named entity recognition."
+  }
+]
